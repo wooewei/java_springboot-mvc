@@ -1,0 +1,5 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<div style="padding: 15px">
+	<a href="/room" title="回首頁" style="text-decoration: none; color: black; font-weight: bold;">🏠HOME</a>
+</div>
